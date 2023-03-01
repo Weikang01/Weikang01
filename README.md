@@ -3,7 +3,7 @@
 - 👀 I'm interested in Game Engine Development, Computer Graphics, AI, and Software Development. Basically, anything that involves technology and creativity!
 - 🌱 Currently, I'm on a mission to conquer AI algorithms for video games. But don't worry, I won't let the machines take over... yet.
 - 💞️ I'm always looking for new projects to collaborate on, so if you're interested in working with me, hit me up!
-- 📫 You can reach me at wliu29@lakeheadu.ca. I'm always happy to chat about coding, technology, and cool projects - but please note that I'm not responsible for any corny memes that may slip into our conversation!
+- 📫 You can reach me at wliu29@lakeheadu.ca. I'm always happy to chat about coding, technology, and cool projects!
 
 <!---
 Weikang01/Weikang01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
