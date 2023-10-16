@@ -11,6 +11,7 @@ You can click the Preview link to take a look at your changes.
 --->
 # Project Navigation
 * GLSL shader gallery [code](https://github.com/Weikang01/glsl_playground)
+* a Neural Network library for Unity [code](https://github.com/Weikang01/SharpTorch)
 * Telemedicine System for resident in remote area [code](https://github.com/Weikang01/COMP_3415_team_project_new/tree/backend_temp)
 * Cross-Platform Game Engine [code](https://github.com/Weikang01/game_engine_demo02)
 * ECS(Entity Component System) based Item System [code](https://github.com/Weikang01/Item-System-Research)
