@@ -117,6 +117,10 @@ You can click the Preview link to take a look at your changes.
 <img alt="Google Meet" src="https://img.shields.io/badge/-Google%20Meet-00897B?style=flat-square&logo=google-meet&logoColor=white" />
 <img alt="Microsoft Teams" src="https://img.shields.io/badge/-Microsoft%20Teams-6264A7?style=flat-square&logo=microsoft-teams&logoColor=white" />
 </p>
+<p>
+<img alt="Blender" src="https://img.shields.io/badge/-Blender-E87D0D?style=flat-square&logo=blender&logoColor=white" />
+<img alt="Houdini" src="https://img.shields.io/badge/-Houdini-FF4713?style=flat-square&logo=houdini&logoColor=white" />
+</p>
 
 # Project Navigation
 * GLSL shader gallery [code](https://github.com/Weikang01/glsl_playground)
