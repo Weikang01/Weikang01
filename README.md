@@ -2,7 +2,7 @@
 
 <p>
       <a href="https://www.linkedin.com/in/weikang-liu-757b21253/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:wliu29@lakeheadu.ca" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-Email-D11211?&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:wliu.contact@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-Email-D11211?&logo=gmail&logoColor=white"/></a>
   
 </p>
 
